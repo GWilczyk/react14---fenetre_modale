@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react14---fenetre_modale/static/css/main.dba39010.chunk.css",
+    "main.js": "/react14---fenetre_modale/static/js/main.1847dc85.chunk.js",
+    "main.js.map": "/react14---fenetre_modale/static/js/main.1847dc85.chunk.js.map",
+    "runtime-main.js": "/react14---fenetre_modale/static/js/runtime-main.e80382b6.js",
+    "runtime-main.js.map": "/react14---fenetre_modale/static/js/runtime-main.e80382b6.js.map",
+    "static/js/2.eefaf00c.chunk.js": "/react14---fenetre_modale/static/js/2.eefaf00c.chunk.js",
+    "static/js/2.eefaf00c.chunk.js.map": "/react14---fenetre_modale/static/js/2.eefaf00c.chunk.js.map",
+    "index.html": "/react14---fenetre_modale/index.html",
+    "precache-manifest.910207868f34ed64bf683abe7e3351fa.js": "/react14---fenetre_modale/precache-manifest.910207868f34ed64bf683abe7e3351fa.js",
+    "service-worker.js": "/react14---fenetre_modale/service-worker.js",
+    "static/css/main.dba39010.chunk.css.map": "/react14---fenetre_modale/static/css/main.dba39010.chunk.css.map",
+    "static/js/2.eefaf00c.chunk.js.LICENSE.txt": "/react14---fenetre_modale/static/js/2.eefaf00c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e80382b6.js",
+    "static/js/2.eefaf00c.chunk.js",
+    "static/css/main.dba39010.chunk.css",
+    "static/js/main.1847dc85.chunk.js"
+  ]
+}
